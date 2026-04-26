@@ -221,7 +221,7 @@ fig5.add_trace(go.Scatter(
     y=y,
     mode='lines',
     name="Actual",
-    line=dict(color='blue')
+    line=dict(color='dark green')
 ))
 
 fig5.add_trace(go.Scatter(
